@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    margin: 0;
+}
+
+figure {
+    margin: 0;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 500;
+    font-family: "Helvetica", "Tahoma", sans-serif;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 15px;
+    background-color: rgba(250, 248, 225, 0.2);
+}
